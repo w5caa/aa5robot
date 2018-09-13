@@ -25,6 +25,7 @@ commands = [
     ('command.dstar_lh', 'CommandDStarLh'),
     ('command.dstar_refs', 'CommandDStarRefs'),
     ('command.dstar_xrefs', 'CommandDStarXrefs'),
+    ('command.pota', 'CommandPota'),
 ]
 
 # import command modules and create instances of command classes
